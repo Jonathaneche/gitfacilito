@@ -135,12 +135,12 @@ h1,h2,h3,h4,h5,h6{
     font-weight: 600;
 	margin: 10px 0;
 	display: inline-block;
-	transition: 0.4s;
+	transition: 0.3s;
     box-shadow: 0px 1px 3px black;
 }
 
 .btn:hover{
-	transform: scale(1.5);
+	transform: scale(1.2);
 	letter-spacing: 3px;
     background-color: #D74932;
 	color: white;
